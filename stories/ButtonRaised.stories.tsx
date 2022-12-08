@@ -4,7 +4,7 @@ import { Meta, Story } from "@storybook/angular/types-6-0";
 import { ButtonRaisedComponent } from "projects/pattern-lib/src/lib/button-raised/button-raised.component";
 
 export default {
-  title: "ADL ANGULAR MATERIAL/Buttons",
+  title: "Wahyu Fatur Rizki ANGULAR MATERIAL/Buttons",
   component: ButtonRaisedComponent,
   argTypes: {
     label: { control: "text" },

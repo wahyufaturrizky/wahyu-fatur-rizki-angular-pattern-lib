@@ -4,7 +4,7 @@ import { Meta, Story } from "@storybook/angular/types-6-0";
 import { ButtonComponent } from "projects/pattern-lib/src/lib/button/button.component";
 
 export default {
-  title: "ADL ANGULAR MATERIAL/Buttons",
+  title: "Wahyu Fatur Rizki ANGULAR MATERIAL/Buttons",
   component: ButtonComponent,
   argTypes: {
     label: { control: "text" },

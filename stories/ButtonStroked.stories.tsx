@@ -4,7 +4,7 @@ import { Meta, Story } from "@storybook/angular/types-6-0";
 import { ButtonStrokedComponent } from "projects/pattern-lib/src/lib/button-stroked/button-stroked.component";
 
 export default {
-  title: "ADL ANGULAR MATERIAL/Buttons",
+  title: "Wahyu Fatur Rizki ANGULAR MATERIAL/Buttons",
   component: ButtonStrokedComponent,
   argTypes: {
     label: { control: "text" },
