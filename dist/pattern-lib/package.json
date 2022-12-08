@@ -1,0 +1,35 @@
+{
+  "name": "@axiata-digital-labs/angular-pattern-lib",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^15.0.0",
+    "@angular/core": "^15.0.0",
+    "@angular/material": "^15.0.1",
+    "@angular/animations": "^15.0.0",
+    "@angular/cdk": "^15.0.1"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "private": false,
+  "module": "fesm2015/axiata-digital-labs-angular-pattern-lib.mjs",
+  "es2020": "fesm2020/axiata-digital-labs-angular-pattern-lib.mjs",
+  "esm2020": "esm2020/axiata-digital-labs-angular-pattern-lib.mjs",
+  "fesm2020": "fesm2020/axiata-digital-labs-angular-pattern-lib.mjs",
+  "fesm2015": "fesm2015/axiata-digital-labs-angular-pattern-lib.mjs",
+  "typings": "index.d.ts",
+  "exports": {
+    "./package.json": {
+      "default": "./package.json"
+    },
+    ".": {
+      "types": "./index.d.ts",
+      "esm2020": "./esm2020/axiata-digital-labs-angular-pattern-lib.mjs",
+      "es2020": "./fesm2020/axiata-digital-labs-angular-pattern-lib.mjs",
+      "es2015": "./fesm2015/axiata-digital-labs-angular-pattern-lib.mjs",
+      "node": "./fesm2015/axiata-digital-labs-angular-pattern-lib.mjs",
+      "default": "./fesm2020/axiata-digital-labs-angular-pattern-lib.mjs"
+    }
+  },
+  "sideEffects": false
+}
