@@ -1,5 +1,5 @@
 {
-  "name": "@wahyufaturrizky/angular-pattern-lib",
+  "name": "@wahyufaturrizkidev/angular-pattern-lib",
   "version": "0.0.1",
   "peerDependencies": {
     "@angular/common": "^15.0.0",

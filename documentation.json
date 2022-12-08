@@ -923,21 +923,21 @@
                 "name": "Template",
                 "ctype": "miscellaneous",
                 "subtype": "variable",
-                "file": "stories/ButtonStroked.stories.tsx",
-                "deprecated": false,
-                "deprecationMessage": "",
-                "type": "Story<ButtonStrokedComponent>",
-                "defaultValue": "(\n  args: ButtonStrokedComponent\n) => ({\n  component: ButtonStrokedComponent,\n  props: args,\n})"
-            },
-            {
-                "name": "Template",
-                "ctype": "miscellaneous",
-                "subtype": "variable",
                 "file": "stories/ButtonRaised.stories.tsx",
                 "deprecated": false,
                 "deprecationMessage": "",
                 "type": "Story<ButtonRaisedComponent>",
                 "defaultValue": "(\n  args: ButtonRaisedComponent\n) => ({\n  component: ButtonRaisedComponent,\n  props: args,\n})"
+            },
+            {
+                "name": "Template",
+                "ctype": "miscellaneous",
+                "subtype": "variable",
+                "file": "stories/ButtonStroked.stories.tsx",
+                "deprecated": false,
+                "deprecationMessage": "",
+                "type": "Story<ButtonStrokedComponent>",
+                "defaultValue": "(\n  args: ButtonStrokedComponent\n) => ({\n  component: ButtonStrokedComponent,\n  props: args,\n})"
             },
             {
                 "name": "Template",
